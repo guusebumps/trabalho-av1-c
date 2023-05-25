@@ -1,6 +1,6 @@
 # trabalho-av1-c
 
-Trabalho feito por mim para a primeira avaliação do semestre o qual cursei "Programação de Software em C/C++". Trabalho simples que consiste criar um arquivo de texto com as especificações exigidas pelo professor. Segue imagens abaixo:
+Trabalho feito por mim para a primeira avaliação do semestre o qual cursei "Programação de Software em C/C++". Trabalho simples que consiste criar um arquivo de texto com as especificações exigidas pelo professor. Segue imagem abaixo:
 
 # Imagem
 
